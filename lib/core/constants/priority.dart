@@ -1,0 +1,1 @@
+const List<String> priority = ['一般', '高', '极高'];
